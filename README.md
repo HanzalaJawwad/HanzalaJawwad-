@@ -20,20 +20,9 @@
 
 ## ⚡ WHO AM I
 
-<div align="center">
+### `> identity.json`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=1800&pause=400&color=3FB950&center=true&vCenter=true&multiline=true&repeat=false&width=850&height=220&lines=%24+whoami;%3E+Hanzala+Jawwad+%7C+AI%2FML+Student+%7C+Bengaluru+India;%24+cat+mission.txt;%3E+Building+real-world+AI+and+ML+solutions;%3E+Exploring+Computer+Vision%2C+NLP+and+Cybersecurity;%3E+Developing+ML+models+from+data+to+deployment;%3E+Leading+tech+events+and+student+innovation+communities;%24+echo+%22Learn.+Build.+Improve.+%F0%9F%9A%80%22)](https://github.com/HanzalaJawwad)
-
-</div>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**`> identity.json`**
-<pre lang="json">
+```json
 {
   "name": "Hanzala Jawwad",
   "role": "AI/ML Undergraduate",
@@ -44,22 +33,23 @@
   "impact": "Led Nexora 36-hour Hackathon",
   "motto": "Learn. Build. Improve. 🚀"
 }
-</pre>
+```
 
-</td> <td width="50%" valign="top">
-> stack --current
+### `> stack --current`
 
-<pre>
+```bash
 # Core weapons
-Python        ████████████ HOT 🔥
-Machine ML    ███████████░ SHARP ⚡
-Computer CV   ███████████░ SHARP ⚡
-NLP           ██████████░░ SOLID 🛡️
-Deep Learning ██████████░░ SOLID 🛡️
-Data Analysis ███████████░ SHARP ⚡
-Linux/Git     █████████░░░ SOLID 🛡️
-Research      ██████████░░ SOLID 🛡️
-</pre>
+Python        ████████████  HOT 🔥
+Machine ML    ███████████░  SHARP ⚡
+Computer CV   ███████████░  SHARP ⚡
+NLP           ██████████░░  SOLID 🛡️
+Deep Learning ██████████░░  SOLID 🛡️
+Data Analysis ███████████░  SHARP ⚡
+Linux/Git     █████████░░░  SOLID 🛡️
+Research      ██████████░░  SOLID 🛡️
+```
+
+---
 
 🏢 EXPERIENCE
 <div align="center">
