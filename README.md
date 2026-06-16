@@ -76,51 +76,46 @@ Research      ██████████░░ SOLID 🛡️
 ╚════════════════════════════════════════════════════════════════════╝
 
 
-🛠️ TECH ARSENAL
-🤖 AI · ML · Deep Learning
+## 🛠️ TECH ARSENAL
 
+### 🤖 AI · Gen AI · LLMs
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-58A6FF?style=for-the-badge&logo=databricks&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-3FB950?style=for-the-badge&logo=probot&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-9B59B6?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F78166?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-E3B341?style=for-the-badge&logo=spacy&logoColor=black)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-00B4D8?style=for-the-badge&logo=opencv&logoColor=white)
 
+### ⚙️ MLOps · DevOps · Infrastructure
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-3FB950?style=for-the-badge&logo=dvc&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge&logo=azuredevops&logoColor=white)
+![SRE](https://img.shields.io/badge/SRE-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![On-Premise Architect](https://img.shields.io/badge/On--Premise_Architect-1C2128?style=for-the-badge&logo=homeassistant&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+### 💻 Full Stack · DSA
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-3FB950?style=for-the-badge&logo=leetcode&logoColor=white)
+![Competitive Programming](https://img.shields.io/badge/CP-FF6B35?style=for-the-badge&logo=codeforces&logoColor=white)
 
+---
 
+## 📊 GITHUB METRICS
 
+<div align="center">
 
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=HanzalaJawwad&bg_color=0d1117&color=58a6ff&line=3fb950&point=f78166&area=true&hide_border=true&radius=8"/>
 
-
-
-
-
-
-
-
-
-📊 Data · Research
-
-
-
-
-
-
-
-
-
-
-💻 Programming · Tools
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-⚙️ Platforms
+</div>
 
 
 
