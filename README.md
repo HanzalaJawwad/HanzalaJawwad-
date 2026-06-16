@@ -51,19 +51,22 @@ Research      ██████████░░  SOLID 🛡️
 
 ---
 
-🏢 EXPERIENCE
-<div align="center">
-#link
-</div>
+## 🏢 EXPERIENCE
+
+```txt
 ╔════════════════════════════════════════════════════════════════════╗
-║  🏆  LEAD ORGANIZER        │  Nexora Hackathon   │  Apr 2026     ║
+║ 🏆 LEAD ORGANIZER        │ Nexora Hackathon │ Apr 2026          ║
 ╠════════════════════════════════════════════════════════════════════╣
-║  🤖  AI/ML INTERN          │  ShadowFox          │  Sep 2025     ║
+║ 🤖 AI/ML INTERN          │ ShadowFox        │ Sep 2025          ║
 ╠════════════════════════════════════════════════════════════════════╣
-║  🚀  SPACE INDUSTRY INTERN │  Agnirva            │  Nov 2024-Jan 2025 ║
+║ 🚀 SPACE INDUSTRY INTERN │ Agnirva          │ Nov 2024-Jan 2025 ║
 ╠════════════════════════════════════════════════════════════════════╣
-║  📚  ORGANIZING MEMBER     │  AICTE FDP          │  2024         ║
+║ 📚 ORGANIZING MEMBER     │ AICTE FDP        │ 2024              ║
 ╚════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
 
 
 ## 🛠️ TECH ARSENAL
