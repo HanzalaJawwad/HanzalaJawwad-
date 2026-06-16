@@ -33,31 +33,33 @@
 <td width="50%" valign="top">
 
 **`> identity.json`**
-```json
+<pre lang="json">
 {
-  "name"     : "Hanzala Jawwad",
-  "role"     : "AI/ML Undergraduate",
-  "college"  : "HKBK College of Engineering",
-  "base"     : "Bengaluru, India 🇮🇳",
-  "focus"    : "ML, CV, NLP, Research",
-  "status"   : "🟢 Building & Learning",
-  "impact"   : "Led Nexora 36-hour Hackathon",
-  "motto"    : "Learn. Build. Improve. 🚀"
+  "name": "Hanzala Jawwad",
+  "role": "AI/ML Undergraduate",
+  "college": "HKBK College of Engineering",
+  "base": "Bengaluru, India 🇮🇳",
+  "focus": "ML, CV, NLP, Research",
+  "status": "🟢 Building & Learning",
+  "impact": "Led Nexora 36-hour Hackathon",
+  "motto": "Learn. Build. Improve. 🚀"
 }
+</pre>
 
 </td> <td width="50%" valign="top">
 > stack --current
 
+<pre>
 # Core weapons
-Python        ████████████  HOT 🔥
-Machine ML    ███████████░  SHARP ⚡
-Computer CV   ███████████░  SHARP ⚡
-NLP           ██████████░░  SOLID 🛡️
-Deep Learning ██████████░░  SOLID 🛡️
-Data Analysis ███████████░  SHARP ⚡
-Linux/Git     █████████░░░  SOLID 🛡️
-Research      ██████████░░  SOLID 🛡️
-</td> </tr> </table>
+Python        ████████████ HOT 🔥
+Machine ML    ███████████░ SHARP ⚡
+Computer CV   ███████████░ SHARP ⚡
+NLP           ██████████░░ SOLID 🛡️
+Deep Learning ██████████░░ SOLID 🛡️
+Data Analysis ███████████░ SHARP ⚡
+Linux/Git     █████████░░░ SOLID 🛡️
+Research      ██████████░░ SOLID 🛡️
+</pre>
 
 🏢 EXPERIENCE
 <div align="center">
