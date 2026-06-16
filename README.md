@@ -20,7 +20,17 @@
 
 ---
 
-## ⚡ WHO AM I
+# ⚡ WHO AM I
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=1800&pause=400&color=3FB950&center=true&vCenter=true&multiline=true&repeat=false&width=850&height=220&lines=%24+whoami;%3E+Hanzala+Jawwad+%7C+AI%2FML+Undergraduate+%7C+Bengaluru+India;%24+cat+mission.txt;%3E+Building+practical+AI%2FML+solutions;%3E+Exploring+Computer+Vision%2C+Networking+and+Cybersecurity;%3E+Creating+real-world+projects+from+idea+to+deployment;%3E+Leading+tech+events+and+student+communities;%24+echo+%22Learn.+Build.+Improve.+%F0%9F%9A%80%22)](https://github.com/HanzalaJawwad)
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### `> identity.json`
 
@@ -30,26 +40,39 @@
   "role": "AI/ML Undergraduate",
   "college": "HKBK College of Engineering",
   "base": "Bengaluru, India 🇮🇳",
-  "focus": "ML, CV, NLP, Research",
+  "focus": [
+    "Machine Learning",
+    "Networking",
+    "NLP",
+    "Cybersecurity"
+  ],
   "status": "🟢 Building & Learning",
   "impact": "Led Nexora 36-hour Hackathon",
   "motto": "Learn. Build. Improve. 🚀"
 }
 ```
 
+</td>
+
+<td width="50%" valign="top">
+
 ### `> stack --current`
 
 ```bash
 # Core weapons
-Python        ████████████  HOT 🔥
-Machine ML    ███████████░  SHARP ⚡
-Computer CV   ███████████░  SHARP ⚡
-NLP           ██████████░░  SOLID 🛡️
-Deep Learning ██████████░░  SOLID 🛡️
-Data Analysis ███████████░  SHARP ⚡
-Linux/Git     █████████░░░  SOLID 🛡️
-Research      ██████████░░  SOLID 🛡️
+Python         ████████████ HOT 🔥
+Machine ML     ███████████░ SHARP ⚡
+Computer CV    ███████████░ SHARP ⚡
+NLP            ██████████░░ SOLID 🛡️
+Deep Learning  ██████████░░ SOLID 🛡️
+Data Analysis  ███████████░ SHARP ⚡
+Linux/Git      █████████░░░ SOLID 🛡️
+Research       ██████████░░ SOLID 🛡️
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
