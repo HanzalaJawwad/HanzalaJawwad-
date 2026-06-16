@@ -105,7 +105,7 @@ Research       ██████████░░ SOLID 🛡️
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F78166?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-E3B341?style=for-the-badge&logo=spacy&logoColor=black)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-00B4D8?style=for-the-badge&logo=opencv&logoColor=white)
+![Networking](https://img.shields.io/badge/Computer_Vision-00B4D8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### ⚙️ MLOps · DevOps · Infrastructure
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
