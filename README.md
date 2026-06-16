@@ -112,59 +112,75 @@ Research      ██████████░░  SOLID 🛡️
 
 
 
+---
 
+## 🚀 FEATURED PROJECTS
 
-
+```txt
 ╔════════════════════════════════════════════════════════════════════╗
-║  👁️  Smart Attendance System via Face Recognition                 ║
-║      OpenCV + dlib + EAR-based focus tracking                     ║
+║ 👁️ Smart Attendance System via Face Recognition                   ║
+║    OpenCV + dlib + EAR-based focus tracking                       ║
 ╠════════════════════════════════════════════════════════════════════╣
-║  🛰️  Illegal Fishing Detection with MLP-LSTM                       ║
-║      AIS data analysis for vessel behavior classification         ║
+║ 🛰️ Illegal Fishing Detection with MLP-LSTM                         ║
+║    AIS data analysis for vessel behavior classification           ║
 ╠════════════════════════════════════════════════════════════════════╣
-║  🤖  ShadowFox Advanced Machine Learning Project                  ║
-║      Data processing, model implementation and result analysis     ║
+║ 🤖 ShadowFox Advanced Machine Learning Project                    ║
+║    Data processing, model implementation and result analysis       ║
 ╚════════════════════════════════════════════════════════════════════╝
+```
 
+---
 
-🏆 ACHIEVEMENTS
-<div align="center">
-🏅 Achievement	🚀 Details
-First Prize	NVIDIA Jetson Nano Workshop for AI-based computer vision solution
-Lead Organizer	Nexora Hackathon 2026, 36-hour technical hackathon
-AICTE FDP	Organizing team member for faculty development program
-Aspire Leaders Program	Selected participant in global leadership initiative
-Hackathons	Participated in national-level hackathons
-</div>
+## 🏆 ACHIEVEMENTS
 
+| 🏅 Achievement | 🚀 Details |
+|:---|:---|
+| First Prize | NVIDIA Jetson Nano Workshop for AI-based computer vision solution |
+| Lead Organizer | Nexora Hackathon 2026, 36-hour technical hackathon |
+| AICTE FDP | Organizing team member for faculty development program |
+| Aspire Leaders Program | Selected participant in global leadership initiative |
+| Hackathons | Participated in national-level hackathons |
 
-🎯 IMPACT NUMBERS
-<div align="center">
-🏆 Hackathon Led	👥 Teams Managed	⏱ Duration	🤖 AI/ML Projects	🧠 Core Domains
-Nexora 2026	70+	36 Hours	3+	ML · CV · NLP
-</div>
+---
 
-🎓 EDUCATION
+## 🎯 IMPACT NUMBERS
 
+| 🏆 Hackathon Led | 👥 Teams Managed | ⏱ Duration | 🤖 AI/ML Projects | 🧠 Core Domains |
+|:---:|:---:|:---:|:---:|:---:|
+| Nexora 2026 | 70+ | 36 Hours | 3+ | ML · CV · NLP |
+
+---
+
+## 🎓 EDUCATION
+
+```txt
 ╔════════════════════════════════════════════════════════════════════╗
-║  🎓 B.E. Artificial Intelligence & Machine Learning               ║
-║     HKBK College of Engineering, Bengaluru                        ║
-║     2023 → Present                                                ║
+║ 🎓 B.E. Artificial Intelligence & Machine Learning                ║
+║    HKBK College of Engineering, Bengaluru                         ║
+║    2023 → Present                                                 ║
 ╠════════════════════════════════════════════════════════════════════╣
-║  📘 Pre-University PCMB                                           ║
-║     Indian Academy Pre-University College, Bengaluru              ║
-║     2019 → 2021                                                   ║
+║ 📘 Pre-University PCMB                                            ║
+║    Indian Academy Pre-University College, Bengaluru                ║
+║    2019 → 2021                                                    ║
 ╚════════════════════════════════════════════════════════════════════╝
+```
 
+---
 
-🌐 FIND ME
+## 🌐 FIND ME
+
 <div align="center">
 
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanzala-jawwad)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HanzalaJawwad)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanzala.jawwad@gmail.com)
 
 </div>
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:3fb950,100:0d1117&height=130&section=footer&text=%22Learn.+Build.+Improve.+%F0%9F%9A%80%22&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/> </div>
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:3fb950,100:0d1117&height=130&section=footer&text=%22Learn.+Build.+Improve.+%F0%9F%9A%80%22&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
+
+</div>
